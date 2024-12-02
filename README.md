@@ -24,7 +24,7 @@ A shopping site built for assessment purposes. The application includes features
    ```bash
    git clone https://github.com/buhushika/shopping-site.git
    
-2. Start the repository
+2. Go to the repository
     `cd shop-app`
 3. Install dependencies
     `npm install`
