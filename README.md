@@ -22,7 +22,7 @@ A shopping site built for assessment purposes. The application includes features
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/buhushika/shopping-site.git
    
 2. Start the repository
     `cd shop-app`
