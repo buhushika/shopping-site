@@ -23,9 +23,10 @@ A shopping site built for assessment purposes. The application includes features
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-2. Start the repostory
-    cd shop-app
+   
+2. Start the repository
+    `cd shop-app`
 3. Install dependencies
-    npm install
+    `npm install`
 4. Start the repository
-    npm start
+    `npm start`
